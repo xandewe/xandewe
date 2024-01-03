@@ -4,26 +4,26 @@
 </header>
 <section>
     <h2>Quem sou eu?</h2>
-    <p>Atualmente, estou imerso no universo do desenvolvimento, especialmente trabalhando em um projeto pessoal de gerenciamento financeiro.</p>
-    <p>Sou formado na Kenzie Academy e estou aprofundando meus conhecimentos na área, atualmente cursando Ciências da Computação na Descomplica.</p>
-    <p>Quando não estou codificando, você me encontra envolvido em esportes, especialmente futebol e NBA.</p>
-    <p>Vamos trocar ideias, colaborar em projetos ou discutir esportes? Explore meus repositórios e sinta-se à vontade para entrar em contato!</p>
+    <p>💻 Atualmente, estou imerso no universo do desenvolvimento, especialmente trabalhando em um projeto pessoal de gerenciamento financeiro.</p>
+    <p>🎓 Sou formado na Kenzie Academy e estou aprofundando meus conhecimentos na área, atualmente cursando Ciências da Computação na Descomplica.</p>
+    <p>⚽🏀 Quando não estou codificando, você me encontra envolvido em esportes, especialmente futebol e NBA.</p>
+    <p>📫 Vamos trocar ideias, colaborar em projetos ou discutir esportes? Explore meus repositórios e sinta-se à vontade para entrar em contato!</p>
 </section>
 <section>
-    <h2>Tecnologias que eu trabalho</h2>
+    <h2> 🚀Tecnologias que eu trabalho</h2>
     <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-        <img src="https://cdpn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="40px" width="40px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="40px" width="40px">
     </p>
 </section>
 <section>
