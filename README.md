@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Olá, sou Alexandre Alves, um Desenvolvedor Full Stack apaixonado por transformar ideias em código!
 
-<!--
-**xandewe/xandewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente, estou imerso no universo do desenvolvimento, especialmente trabalhando em um projeto pessoal de gerenciamento financeiro.
 
-Here are some ideas to get you started:
+🚀 Minhas habilidades abrangem Python, Node.js, Django, Flask, Postgres, MongoDB, HTML, CSS, JavaScript e React. Sou um entusiasta do Git, garantindo que meus projetos estejam sempre versionados e colaborativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Sou formado na Kenzie Academy e estou aprofundando meus conhecimentos na área, atualmente cursando Ciências da Computação na Descomplica.
+
+⚽🏀 Quando não estou codificando, você me encontra envolvido em esportes, especialmente futebol e NBA.
+
+📫 Vamos trocar ideias, colaborar em projetos ou discutir esportes? Explore meus repositórios e sinta-se à vontade para entrar em contato!
+
+Bora que bora! 🚀⚽
