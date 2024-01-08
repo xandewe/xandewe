@@ -6,7 +6,7 @@
     <h2>Quem sou eu?</h2>
     <p>💻 Atualmente, estou imerso no universo do desenvolvimento, especialmente trabalhando em um projeto pessoal de gerenciamento financeiro.</p>
     <p>🎓 Sou formado na Kenzie Academy e estou aprofundando meus conhecimentos na área, atualmente cursando Ciências da Computação na Descomplica.</p>
-    <p>⚽🏀 Quando não estou codificando, você me encontra envolvido em esportes, especialmente futebol e NBA.</p>
+    <p>⚽🏀 Quando não estou codando, você me encontra envolvido em esportes, especialmente futebol e NBA.</p>
     <p>📫 Vamos trocar ideias, colaborar em projetos ou discutir esportes? Explore meus repositórios e sinta-se à vontade para entrar em contato!</p>
 </section>
 <section>
