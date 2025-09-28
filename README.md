@@ -1,6 +1,6 @@
 <header>
     <h1>👋 Olá, sou Alexandre Alves</h1>
-    <p>Desenvolvedor Full Stack apaixonado por transformar ideias em código!</p>
+    <p>Desenvolvedor Backend apaixonado por transformar ideias em código!</p>
 </header>
 <section>
     <h2>Quem sou eu?</h2>
